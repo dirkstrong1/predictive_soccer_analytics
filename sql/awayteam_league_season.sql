@@ -31,3 +31,4 @@ AS(
             USING (country_id)) as away
 
         GROUP BY awayteam,season, league);  
+        
