@@ -1,7 +1,7 @@
 import pandas as pd
 from math import pi
 import matplotlib.pyplot as plt
-%matplotlib inline
+% matplotlib inline
 
 
 def createRadar(league, data, league2, data2):
